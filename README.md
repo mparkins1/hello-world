@@ -16,3 +16,5 @@ Cloned this repository down from github to my laptop
 Making a change to the one and only file from UltraEdit on my laptop (in the main branch)
 ------------------------------------------------------------
 Trying 'Open in Github Desktop' FROM GITHUB site
+------------------------------------------------------------
+Made a local branch called 'play-with-readme' but didn't publish it to github + making this change in the branch + committing to the branch (or to main)

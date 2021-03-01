@@ -15,3 +15,4 @@ Going to check my local copy (the changes should be there)
 Cloned this repository down from github to my laptop
 Making a change to the one and only file from UltraEdit on my laptop (in the main branch)
 ------------------------------------------------------------
+Trying 'Open in Github Desktop' FROM GITHUB site
